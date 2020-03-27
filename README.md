@@ -37,3 +37,6 @@ https://github.com/andresaraujo/timeago.dart/blob/master/timeago/readme.md
 
 ## sliding_up_panel   
 https://github.com/akshathjain/sliding_up_panel
+
+## email_validator   
+https://github.com/fredeil/email-validator.dart
