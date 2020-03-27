@@ -1,5 +1,5 @@
 # very_useful_flutter
-A collection of very useful flutter plugins that make life easier.
+A collection of very useful flutter plugins that make life easier. Have not tested all.
 
 ## after_layout   
 Let's you run code after a widget is first painted on the screen (similar to componentDidMount in React)
