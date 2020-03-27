@@ -34,3 +34,6 @@ https://github.com/peng8350/flutter_pulltorefresh
 
 ## timeago
 https://github.com/andresaraujo/timeago.dart/blob/master/timeago/readme.md
+
+## sliding_up_panel   
+https://github.com/akshathjain/sliding_up_panel
