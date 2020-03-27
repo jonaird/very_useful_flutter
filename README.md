@@ -31,3 +31,6 @@ https://github.com/material-foundation/google-fonts-flutter
 
 ## pull_to_refresh
 https://github.com/peng8350/flutter_pulltorefresh
+
+## timeago
+https://github.com/andresaraujo/timeago.dart/blob/master/timeago/readme.md
