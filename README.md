@@ -10,5 +10,5 @@ Simple widget for sliding and fading animations that happen when a widgets enter
 https://github.com/smokelaboratory/motion_widget
 
 ## animations   
-A high quality animations library (by the flutter team) for animations between states
+A high quality animations library (by the flutter team) for animations between states   
 https://pub.dev/packages/animations
