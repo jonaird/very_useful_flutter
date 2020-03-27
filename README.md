@@ -21,9 +21,9 @@ https://github.com/letsar/flutter_slidable
 https://pub.dev/packages/url_launcher
 
 ## font_awesome_flutter   
-Icons!
+Icons!   
 https://github.com/fluttercommunity/font_awesome_flutter
 
 ## google_fonts
-Beta   
+In Beta...   
 https://github.com/material-foundation/google-fonts-flutter
