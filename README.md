@@ -9,6 +9,6 @@ https://github.com/fluttercommunity/flutter_after_layout
 Simple widget for sliding and fading animations that happen when a widgets enter or exit the screen.
 https://github.com/smokelaboratory/motion_widget
 
-## animations
+## animations   
 A high quality animations library (by the flutter team) for animations between states
 https://pub.dev/packages/animations
