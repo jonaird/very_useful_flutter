@@ -40,3 +40,7 @@ https://github.com/akshathjain/sliding_up_panel
 
 ## email_validator   
 https://github.com/fredeil/email-validator.dart
+
+## observable
+
+example implementation:https://stackoverflow.com/questions/20186198/implement-an-observer-pattern-in-dart
